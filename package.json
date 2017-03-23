@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "ejs": "^1.0.0",
-    "thumbprint": "0.0.1",
+    "thumbprint": "github:ziluvatar/thumbprint#node6",
     "xml-crypto": "^0.8.2",
     "xmldom": "^0.1.19",
     "xpath": "0.0.21",
